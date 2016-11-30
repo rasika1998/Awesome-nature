@@ -1,1 +1,4 @@
 # Awesome-nature
+name :RASIKA 
+CLASS: FYBSC 
+HOBBY: WRITING POEMS & DRAWING
